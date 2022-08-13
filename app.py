@@ -18,34 +18,3 @@ def fkjfkjff():
         return render_template('sumprog.html',answer=result)
 if __name__=='__main__':
     app.run()
-
-
-# In[ ]:
-
-
-pwd
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
